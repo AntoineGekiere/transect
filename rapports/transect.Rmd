@@ -1,0 +1,24 @@
+---
+title: ' Transect Calvi - Nice'
+author:
+- email: 'justine.dewaele@student.umons.ac.be'
+  name: Dewaele Justine
+- email: ' antoine.gekiere@student.umons.ac.be'
+  name: Gekière Antoine
+date: "2 Octobre 2018"
+output:
+  pdf_document:
+    toc: yes
+  html_notebook:
+    fig_caption: yes
+    highlight: haddock
+    number_sections: yes
+    theme: journal
+    toc: yes
+  html_document:
+    toc: yes
+subtitle: 
+abstract: 
+---
+
+
